@@ -1,0 +1,36 @@
+*{ 
+margin:0px; 
+        padding:0px;  
+}        
+        body{ 
+            background-color:#eee;  
+          position:absolute;
+          
+        } 
+.wrapper{ 
+   width:500px; 
+  height:80%; 
+  overflow:hidden; 
+  border:0px solid #000; 
+  margin:100px 100px; 
+  padding:20px;
+} 
+.box1-content{ 
+width:250px; 
+  height:45%; 
+  background-color:#fff;
+  border:2px solid #e6e6e6; 
+  margin:2px auto; 
+  padding:40px 50px;
+} 
+.header{ 
+   border:0px solid #000; 
+  margin-bottom:6px;
+} 
+.header img{ 
+ width:175px; 
+  height:60px; 
+  margin:auto;  
+  position:relative;
+  left:40px;
+}
