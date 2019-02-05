@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Challenge: Colorful creature</title>
+    <style>   
+    body{ 
+        background-color: rgb(179, 65, 179);
+    } 
+    p{ 
+        color:rgb(36, 26, 36);
+    } 
+    h1{ 
+        color:rgb(45, 93, 105);
+    }
+    </style>
+        
+    </head> 
+    
+    <body>
+        
+        <h1>The coolest creature </h1> 
+        <p><strong><em>Dragon </em></strong> </p>
+        <img src="https://www.kasandbox.org/programming-images/avatars/duskpin-tree.png"alt="Dragon" width="150" >
+        <p>The <em></em> is awesome because <strong></strong>.</p>
+        
+    </body>
+</html>
