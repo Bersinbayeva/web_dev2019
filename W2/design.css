@@ -1,0 +1,86 @@
+header{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 70px;
+    background-color: pink ;
+    color: black;
+    font-size: 24px; 
+
+}
+
+header p{
+    margin-top: 15px;
+    margin-left: 100px;  
+    text-align:center;
+}
+
+main{
+    position: relative;
+    font-family: "Arial", sans-serif;
+    left: 25%;
+    top: 200px;
+}
+
+#message-box{
+    width: 150px;
+    font-size: 14px;
+    border: 1px black solid;
+    border-radius: 3px;
+    padding: 5px;
+    color: red;
+}
+
+#item{
+    width: 500px;
+    height: 40px;
+    border-radius: 5px;
+    margin-left: 50px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    text-indent: 10px;
+}
+
+#table td{
+    width: 600px;
+    height: 40px;
+}
+
+#table td label{
+    margin-left: 20px;
+}
+
+table{
+    border-collapse: separate;
+    border-spacing: 0;
+    border-radius: 10px;
+    overflow: hidden;
+    border-radius: 7px;
+    border-color: darkgray;
+    vertical-align: center;
+    font-size: 16px;
+}
+
+.deleteButton {
+    float: right;
+    background-image: url("recycle_bin.jpg");
+    background-size: 40px 40px;
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+    border: none;
+}
+
+#button {
+    height: 45px;
+    width: 50px;
+    border-radius: 5px;
+
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+
+h1{
+    font-weight: normal;
+}
